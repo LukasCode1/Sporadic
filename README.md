@@ -308,12 +308,7 @@ Or open `ml/notebooks/train.ipynb` in Colab and use the free GPU.
 
 Hi, I'm Lukas Donnelly, a software engineering student at Northeastern University. I'm looking for a **software engineering or development co-op or internship** starting Spring 2029, so if you're hiring, I'd really like to hear from you.
 
-I've done software engineering work with three companies so far:
-
-<!-- one line each. a number (users, latency, hours saved) beats an adjective -->
-- **[Company]** · [Role] · [dates]: [what you built or shipped]
-- **[Company]** · [Role] · [dates]: [what you built or shipped]
-- **[Company]** · [Role] · [dates]: [what you built or shipped]
+I've done software engineering work with three companies so far.
 
 This project is my excuse to work through the whole life of an ML product: collecting and licensing data, setting honest baselines, evaluating on the data that actually matters, serving a model behind an API, and improving it from real users' corrections. Plus a web app that people other than me actually use.
 
