@@ -306,7 +306,7 @@ Or open `ml/notebooks/train.ipynb` in Colab and use the free GPU.
 
 ## Who's building this
 
-Hi, I'm [Your Name], a software engineering student at [School]. I'm looking for a **software engineering or development co-op or internship** starting [term], so if you're hiring, I'd really like to hear from you.
+Hi, I'm Lukas Donnelly, a software engineering student at Northeastern University. I'm looking for a **software engineering or development co-op or internship** starting Spring 2029, so if you're hiring, I'd really like to hear from you.
 
 I've done software engineering work with three companies so far:
 
@@ -319,7 +319,7 @@ This project is my excuse to work through the whole life of an ML product: colle
 
 Fun fact: I wrote my first program at 9 and had my first website live at 10. Keeping things alive that don't plug into a wall came later, which is more or less why this repo exists.
 
-[email](mailto:you@example.com) · [linkedin](https://www.linkedin.com/in/your-handle) · [github](https://github.com/YOUR-USERNAME)
+[email](donnelly.lu@northeastern.edu) · [linkedin](www.linkedin.com/in/lukas-donnelly) · [github](https://github.com/LukasCode1)
 
 ## Credits and fine print
 
